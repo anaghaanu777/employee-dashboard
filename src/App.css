@@ -1,0 +1,26 @@
+
+body {
+  margin: 0;
+  background-color: #f4f7fb;
+  font-family: Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+.MuiTableCell-root {
+  padding: 14px;
+}
+
+.MuiTableBody-root .MuiTableRow-root:nth-of-type(even) {
+  background-color: #f5f8fc;
+}
+
+.MuiPaper-root {
+  border-radius: 12px;
+}
